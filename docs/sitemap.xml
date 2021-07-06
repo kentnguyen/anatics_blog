@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>https://blog.anatics.io</loc>
-	<lastmod>2021-06-11</lastmod>
+	<lastmod>2021-07-06</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>https://blog.anatics.io/img/diego-ph-fIq0tET6llw-unsplash.jpg</image:loc>
+	<image:loc>https://blog.anatics.io/img/188500300_3758018414302253_9111989339711182293_n.jpg</image:loc>
 	<image:title>diego%20ph-fIq0tET6llw-unsplash</image:title>
 	</image:image>
 	<image:image>
@@ -19,6 +19,42 @@
 	</image:image>
 	<image:image>
 	<image:loc>https://blog.anatics.io/img/IMG_20210528_110651.jpeg</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://blog.anatics.io/article-1/</loc>
+	<lastmod>2021-07-06</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://blog.anatics.io/img/188500300_3758018414302253_9111989339711182293_n.jpg</image:loc>
+	<image:title>188500300_3758018414302253_9111989339711182293_n</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.anatics.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.anatics.io/img/188500300_3758018414302253_9111989339711182293_n.jpg</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://blog.anatics.io/article-template-clone-and-edit-1/</loc>
+	<lastmod>2021-07-06</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://blog.anatics.io/img/188500300_3758018414302253_9111989339711182293_n.jpg</image:loc>
+	<image:title>188500300_3758018414302253_9111989339711182293_n</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.anatics.io/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://blog.anatics.io/img/</image:loc>
 	<image:title>Facebook Social Card Image</image:title>
 	</image:image>
 </url>
